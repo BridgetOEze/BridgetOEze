@@ -1,7 +1,7 @@
 ## Hey there! 👋 Welcome to my GitHub profile!
 
 ### About Me
-I'm Bridget Obianuju Eze, a data analyst on a journey of continuous growth and learning, with great enthusiasm for turning raw data into actionable insights. With over 6 years of experience across various domains including business development, operations, sales, marketing, and project management, I've found my true calling in data analytics. I recently transitioned into the captivating world of data analytics, and I'm on a mission to apply my diverse background and analytical skills to make a meaningful impact through data-centric opportunities. 
+I'm Bridget Obianuju Eze, a data analyst on a journey of continuous growth and learning, with great enthusiasm for turning raw data into actionable insights. With over 5 years of experience across various domains including business development, operations, sales, marketing, and project management, I've found my true calling in data analytics. I recently transitioned into the captivating world of data analytics, and I'm on a mission to apply my diverse background and analytical skills to make a meaningful impact through data-centric opportunities. 
 
 ### What I Love
 Outside of crunching numbers, visualizing trends, or uncovering patterns, you'll often find me exploring new places, soaking up knowledge, or connecting with fellow enthusiasts and people from different walks of life. 
