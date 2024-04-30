@@ -13,6 +13,6 @@ Here on GitHub, you'll find a collection of my data analytics projects. Each one
 I'm always open to collaboration on exciting data analysis projects. Whether you have ideas to share or want to team up, I'm just a message away. Don't forget to check out my LinkedIn profile for more about my journey and professional background. Let's learn, grow, and make an impact together! 🚀📊
 
 ### Get in Touch
-🔗 LinkedIn
+🔗 [LinkedIn](https://www.linkedin.com/in/bridgetoeze/)
 ✉️ Email: bridget.o.eze@gmail.com
 
